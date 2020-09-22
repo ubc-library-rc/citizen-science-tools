@@ -25,11 +25,6 @@ In fact the term "scientist" comes from the English poet Samuel Taylor Coleridge
 Learn more about the history of science through [Laura Snyder's Ted Talk](https://www.ted.com/talks/laura_snyder_the_philosophical_breakfast_club?language=en) or her book [The Philosophical Breakfast Club](https://vpl.bibliocommons.com/item/show/2383885038).
 {: .note}
 
-##
-
-[Borderlands](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
-{: .note}
-
 ## Impact and social good
 Citizen Scientists contribute heavily to their communities and the research going on around them. There are many examples of Citizen Scientists contributing to real change for good.
 
@@ -39,6 +34,10 @@ Citizen science is happening in many places; in video games, at UBC and worldwid
 
 A particularly famous example is the Flint Water Crisis in 2016 in which a Citizen Science project uncovered a community-wide outbreak of Legionella which is a harmful bacterium stemming from the city's water source.
 Learn more about [Citizen Science and the Flint Water Crisis](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.154/).
+{: .note}
+
+Another example is the Borderlands Science game.
+[Borderlands](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
 {: .note}
 
 
