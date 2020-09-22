@@ -25,8 +25,6 @@ Many projects have dedicated apps and platforms that were custom built for their
 
 [Zooniverse](https://www.zooniverse.org/) - Zooniverse is a crowdsourcing platform used for many different kinds of research projects and not limited to science. There are a number of notable citizen science projects that use this platform and many are interdisciplinary!
 
-https://www.citizenscience.org/about-3/
-
 [Pybossa](https://pybossa.com/) - Pybossa is a crowdsourcing framework for processing and analyzing data which means that it is a set of tools that help researchers accomplish organising tasks through crowdsourcing.
 
 [Wildlife Sightings](http://www.wildlifesightings.net/) - Taken from their website: "Our goal is to organize & publish nature sightings for enjoyment, education and contribute to citizen science. Nature lovers (novice & expert), non-profit groups and educators can be a part of our citizen science community project and even run their own local project with our easy to use tools. Use our free service to publish, organize & manage your sighting data so you can focus on what you enjoy doing, leave the technical work to us!"
