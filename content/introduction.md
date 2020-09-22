@@ -7,7 +7,7 @@ nav_order: 3
 Citizen Science is an umbrella term for activities that bring the general public into the process of scientific inquiry. It is often used to refer to data collection, organization, or analysis activities where the primary contributors are not professionally trained or actively practicing scientists.
 
 The philosophy behind Citizen Science is rooted in a few core ideas:
-* access to knowledge is unequally distributed and both knowledge creation and dissemination is restricted to those with resources
+* access to knowledge is unequally distributed and both knowledge creation and dissemination is restricted to those with resources;
 * both the production of research and dissemination of research should be made accessible to the public generally;
 * publicly funded research in particular belongs to citizens;
 * pragmatically, it is impossible for scientists to ask some questions or collect some kinds of data with the financial, physical, and time resources that they have without the help of crowdsourcing or shared computational infrastructure.
@@ -23,6 +23,11 @@ No! Before the 1800s scientists were often not professionally trained and data c
 In fact the term "scientist" comes from the English poet Samuel Taylor Coleridge who, in a debate at the Royal Academy, argued the need for a term to describe the rising scientific professions. Scientist was inspired by the use of "artist" for professionals who create Art.
 
 Learn more about the history of science through [Laura Snyder's Ted Talk](https://www.ted.com/talks/laura_snyder_the_philosophical_breakfast_club?language=en) or her book [The Philosophical Breakfast Club](https://vpl.bibliocommons.com/item/show/2383885038).
+{: .note}
+
+##
+
+[Borderlands](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
 {: .note}
 
 ## Impact and social good
