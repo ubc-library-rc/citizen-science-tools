@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Projects
+title: Citizen Science Projects
 nav_order: 5
 ---
 
 # Citizen Science projects
-Citizen Science projects can range in scope from many people working across many areas to a few people focused on one small thing. Before joining a project make sure to read through contributor guidelines carefully, most Citizen Science projects put effort into helping contributors be empowered Citizen Scientists. Always make sure to reflect on the level of commitment you are able or willing to take on and whether you are comfortable with the data privacy policy of a given project. 
+Citizen Science projects can range in scope from many people working across many areas to a few people focused on one small thing. Before joining a project make sure to read through contributor guidelines carefully, most Citizen Science projects put effort into helping contributors be empowered Citizen Scientists. Always make sure to reflect on the level of commitment you are able or willing to take on and whether you are comfortable with the data privacy policy of a given project.
 
 If you are creating accounts on many different tools or downloading unknown apps, please consider the following best practices to protect your identity and minimise your risk. Take a look at these articles from Mozilla on [staying safe on the web](https://support.mozilla.org/en-US/kb/how-stay-safe-web) and [protecting your identity online](https://blog.mozilla.org/firefox/protect-your-identity-online/).
 {: .warn}

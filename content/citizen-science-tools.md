@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools
+title: Tools for Citizen Science
 nav_order: 4
 ---
 
