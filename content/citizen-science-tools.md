@@ -13,6 +13,8 @@ Not all Citizen Science tools are dependent on digital infrastructure. A simple 
   <li>Binoculars</li>
   <li>Something to take notes with</li>
   <li>Sometimes: Measuring tools</li>
+  <li>Computer</li>
+  <li>Mobile device</li>
 </ul>
 
 However, the rise in public access to computing has increased the scale at which projects can collect information and the diversity of information collecting activities.
