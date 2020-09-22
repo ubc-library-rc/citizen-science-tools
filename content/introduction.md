@@ -37,7 +37,7 @@ Learn more about [Citizen Science and the Flint Water Crisis](https://theoryandp
 {: .note}
 
 Another example is the Borderlands Science game.
-[Borderlands](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
+[Borderlands 3 bridges the gap between citizen science and blockbuster games](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
 {: .note}
 
 
