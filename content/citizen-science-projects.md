@@ -19,12 +19,14 @@ The projects below showcase the diversity of Citizen Science projects.
 "A citizen science project on human biological and chronological age."
 
 [Community Bat Programs of BC](https://www.bcbats.ca/index.php/get-involved/participate-in-the-bc-bat-count)
+The BC Annual Bat Count is a citizen science program to annually monitor bat populations in roost sites.
 
 [eBird Canada](https://ebird.org/canada/home)
 
 Birdwatching with purpose. "Your sightings contribute to hundreds of conservation decisions and peer-reviewed papers, thousands of student projects, and help inform bird research worldwide."
 
 [eButterfly](http://www.e-butterfly.org/)
+Help the eButterfly understand when and where butterflies occur. 
 
 [FISHstory](https://www.zooniverse.org/projects/safmcadmin/fishstory)
 
@@ -53,6 +55,9 @@ One of the earliest Citizen Science projects to leverage wide availability of pe
 [The SkyNet](https://www.icrar.org/outreach-education/outreach-initiatives/the-skynet/)
 
 "...a citizen science project that aims to raise the public profile of science and radio astronomy while simultaneously creating a research grade data processing resource for scientists."
+
+[UBC Seed Lending Library](https://guides.library.ubc.ca/seedlendinglibrary)
+The UBC Seed Lending Library allows anyone to "borrow" seeds free of charge, and provides opportunities to learn about gardening, seed saving, and agricultural research and teaching at UBC.
 
 ## Finding more projects
 We have only scratched the surface of Citizen Science and there are many more projects to explore and get involved with.
