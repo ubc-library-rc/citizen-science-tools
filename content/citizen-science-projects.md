@@ -18,9 +18,13 @@ The projects below showcase the diversity of Citizen Science projects.
 
 "A citizen science project on human biological and chronological age."
 
+[Community Bat Programs of BC](https://www.bcbats.ca/index.php/get-involved/participate-in-the-bc-bat-count)
+
 [eBird Canada](https://ebird.org/canada/home)
 
 Birdwatching with purpose. "Your sightings contribute to hundreds of conservation decisions and peer-reviewed papers, thousands of student projects, and help inform bird research worldwide."
+
+[eButterfly](http://www.e-butterfly.org/)
 
 [FISHstory](https://www.zooniverse.org/projects/safmcadmin/fishstory)
 
