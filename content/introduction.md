@@ -35,8 +35,12 @@ Citizen Scientists contribute heavily to their communities and the research goin
 
 A particularly famous example is the Flint Water Crisis in 2016 in which a Citizen Science project uncovered a community-wide outbreak of Legionella which is a harmful bacterium stemming from the city's water source.
 
+Citizen science is happening in many places; in video games, at UBC and worldwide.
+
+A particularly famous example is the Flint Water Crisis in 2016 in which a Citizen Science project uncovered a community-wide outbreak of Legionella which is a harmful bacterium stemming from the city's water source.
 Learn more about [Citizen Science and the Flint Water Crisis](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.154/).
 {: .note}
+
 
 ## Ethical considerations
 While a wonderful tool for the advancement of science, Citizen Science can also raise challenging ethical questions such as:
