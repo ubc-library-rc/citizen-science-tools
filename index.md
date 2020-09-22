@@ -24,6 +24,6 @@ At the end of this workshop, you will be able to:
 | 0:00 | Welcome and using Zoom|
 | 0:05 | Introduction |  
 | 0:10 | What is Citizen Science |
-| 0:20 | Citizen Science tools |   
+| 0:20 | Citizen Science tools and projects |   
 | 1:00 | Activities |
 | 1:25 | Wrap-up and Discussion |   
