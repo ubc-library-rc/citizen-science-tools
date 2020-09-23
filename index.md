@@ -3,15 +3,15 @@ layout: default
 title: Outline
 nav_order: 1
 ---
-## Note: this workshop is in development and not yet complete.
+# Getting started with Citizen Science: a survey of tools and projects.
 
 This workshop will introduce Citizen Science as a concept, common digital and analogue tools for engaging with it, and projects to be aware of and get involved with.
 
-<img src="content/images/science-literacy-week.jpg" alt="Science Literacy Week 2020" width="800" height="auto">
+It part of Science Literacy Week 2020 programming and is co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons</a>.
 
-This workshop is part of Science Literacy Week 2020 programming and is co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons</a>.
+<img src="content/images/science-literacy-week.jpg" alt="Science Literacy Week 2020" width=600" height="auto">
 
-For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
+For more information on [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
 https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
 
 ## Goal of this workshop
