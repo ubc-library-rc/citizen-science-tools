@@ -12,6 +12,8 @@ The philosophy behind Citizen Science is rooted in a few core ideas:
 * publicly funded research in particular belongs to citizens;
 * pragmatically, it is impossible for scientists to ask some questions or collect some kinds of data with the financial, physical, and time resources that they have without the help of crowdsourcing or shared computational infrastructure.
 
+<img src="images/five-schools-of-thought.png" alt="Five Schools of Open Science thought" width="600" height="auto">
+
 To see how these ideas and more fit into Open Science more generally, take a look at "[Open Science: One Term, Five Schools or Thought](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/basics_background/open_science_one_term_five_schools_of_thought.html)" by Benedikt Fecher & Sascha Friesike.
 
 Learn more about Citizen Science from this [National Geographic learning resource](https://www.nationalgeographic.org/encyclopedia/citizen-science/) and explore [other Nat Geo resources on the topic of Citizen Science](https://www.nationalgeographic.org/topics/citizen-science/?q=&page=1&per_page=25).
