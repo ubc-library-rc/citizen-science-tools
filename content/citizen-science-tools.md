@@ -19,7 +19,7 @@ Not all Citizen Science tools are dependent on digital infrastructure. A simple 
 
 However, the rise in public access to computing has increased the scale at which projects can collect information and the diversity of information collecting activities.
 
-Data and Participant privacy. The data collected in Citizen Science projects is subsequently used in research and exposed. This can cause concerns in terms of participant privacy. To read more on this topic.
+Data and Participant privacy. The data collected in Citizen Science projects is subsequently used in research and exposed. This can cause concerns in terms of participant privacy.
 {: .note}
 
 ## Citizen Science Platforms

@@ -22,9 +22,9 @@ Learn more about Citizen Science from this [National Geographic learning resourc
 ## Is the "Citizen Scientist" a new idea?
 No! Before the 1800s scientists were often not professionally trained and data collection belong to interested citizens. Many of the conventions of modern scientific discourse are rooted in these early debates between "armchair philosophers" who took a part time interest in the scientific.
 
-In fact the term "scientist" comes from the English poet Samuel Taylor Coleridge who, in a debate at the Royal Academy, argued the need for a term to describe the rising scientific professions. Scientist was inspired by the use of "artist" for professionals who create Art.
+In fact the term "scientist" comes from the Cambridge University historian and philosopher of science [William Whewell](https://plato.stanford.edu/entries/whewell/) who coined it in response a challenge from the English poet Samuel Taylor Coleridge and out of a need for a term to describe the rising scientific professions. Scientist was inspired by the use of "artist" for professionals who create art.
 
-Learn more about the history of science through [Laura Snyder's Ted Talk](https://www.ted.com/talks/laura_snyder_the_philosophical_breakfast_club?language=en) or her book [The Philosophical Breakfast Club](https://vpl.bibliocommons.com/item/show/2383885038).
+Learn more about [how the word Scientist came to be](https://www.npr.org/templates/story/story.php?storyId=127037417). For more on the history of science as a profession watch [Laura Snyder's Ted Talk](https://www.ted.com/talks/laura_snyder_the_philosophical_breakfast_club?language=en) or explore her book [The Philosophical Breakfast Club](https://vpl.bibliocommons.com/item/show/2383885038).
 {: .note}
 
 ## Impact and social good
@@ -53,8 +53,3 @@ Many of these concerns are currently being discussed in the Citizen Science comm
 * the development of clear guidelines for citizen scientists
 * structured education and training for participants in projects
 * and clear descriptions of intent for the sharing and use of data collected
-
-Learn more about this debate across different fields of inquiry  
-https://www.sciencedirect.com/science/article/abs/pii/S1462901115001057  
-https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-019-0419-1  
-{: .note}
