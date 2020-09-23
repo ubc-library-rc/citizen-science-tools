@@ -9,7 +9,7 @@ This workshop will introduce Citizen Science as a concept, common digital and an
 
 It part of Science Literacy Week 2020 programming and is co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons</a>.
 
-<img src="content/images/science-literacy-week.jpg" alt="Science Literacy Week 2020" width=600" height="auto">
+<img src="content/images/science-literacy-week.jpg" alt="Science Literacy Week 2020" width="600" height="auto">
 
 For more information on [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
 https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
