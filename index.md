@@ -11,7 +11,9 @@ It part of Science Literacy Week 2020 programming and is co-presented by the <a 
 
 <img src="content/images/science-literacy-week.jpg" alt="Science Literacy Week 2020" width="600" height="auto">
 
-For more information on [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
+Explore more <a href="https://guides.library.ubc.ca/scilit20">Science Literacy Week events at UBC Library</a>. 
+
+For more information on [upcoming workshops at the Research Commons](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
 https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
 
 ## Goal of this workshop
