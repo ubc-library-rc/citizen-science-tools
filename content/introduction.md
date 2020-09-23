@@ -38,7 +38,7 @@ A particularly famous example is the Flint Water Crisis in 2016 in which a Citiz
 Learn more about [Citizen Science and the Flint Water Crisis](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.154/).
 {: .note}
 
-Another example is the Borderlands Science game.
+Another example is the Borderlands Science game, which is currently being used to map the gut microbiome.
 [Borderlands 3 bridges the gap between citizen science and blockbuster games](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
 {: .note}
 
