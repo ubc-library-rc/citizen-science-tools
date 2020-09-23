@@ -26,7 +26,8 @@ The BC Annual Bat Count is a citizen science program to annually monitor bat pop
 Birdwatching with purpose. "Your sightings contribute to hundreds of conservation decisions and peer-reviewed papers, thousands of student projects, and help inform bird research worldwide."
 
 [eButterfly](http://www.e-butterfly.org/)
-Help the eButterfly understand when and where butterflies occur. 
+
+Help the eButterfly understand when and where butterflies occur.
 
 [FISHstory](https://www.zooniverse.org/projects/safmcadmin/fishstory)
 
