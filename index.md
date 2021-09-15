@@ -11,7 +11,7 @@ It is part of Science Literacy Week 2021 programming and is co-presented by the 
 
 <img src="content/images/SLW-web-960x300-2021.jpg" alt="Science Literacy Week 2021" width="600" height="auto">
 
-Explore more <a href="https://guides.library.ubc.ca/SciLitWeek_2021">Science Literacy Week events at UBC Library</a>. 
+Explore more <a href="https://guides.library.ubc.ca/SciLit21/home">Science Literacy Week events at UBC Library</a>. 
 
 For more information on [upcoming workshops at the Research Commons](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at <a href="
 https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
