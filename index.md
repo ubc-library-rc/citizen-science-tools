@@ -9,7 +9,7 @@ This workshop will introduce Citizen Science as a concept, common digital and an
 
 It is part of Science Literacy Week 2021 programming and is co-presented by the [UBC Vancouver Library](https://library.ubc.ca), the [UBC Okanagan Library](https://library.ok.ubc.ca), and the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons</a>.
 
-<img src="content/images/science-literacy-week.jpg" alt="Science Literacy Week 2020" width="600" height="auto">
+<img src="content/images/SLW-web-960x300-2021.jpg" alt="Science Literacy Week 2021" width="600" height="auto">
 
 Explore more <a href="https://guides.library.ubc.ca/SciLitWeek_2021">Science Literacy Week events at UBC Library</a>. 
 
