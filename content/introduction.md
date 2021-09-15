@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: What is Citizen Science?
 nav_order: 3
 ---
 # What is Citizen Science?
