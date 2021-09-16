@@ -41,7 +41,7 @@ A particularly famous example is the Flint Water Crisis in 2016 in which a Citiz
 One of the oldest examples of citizen science is a project called the [Christmas Bird Count](https://www.nationalgeographic.org/encyclopedia/citizen-science/) sponsored by the National Audubon Society, which sponsors a bird count that runs from December 14 through January 5 every year. An experienced birder leads a group of volunteers, and they collect information about the populations of birds within a local area. Currently, more than 2000 circles operate across North America. This project acts as a wildlife census which then in turn helps to inform bird conservation efforts, something that wouldn’t be possible without volunteers from the public, or “citizen scientists”. Beyond Canada and the United States, citizen science is happening in many places; in video games, at UBC and around the world.
 
 
-Learn more about[Citizen Science and the Flint Water Crisis](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.154/). An example of citizen science in a video game is the Borderlands Science game: [Borderlands 3 bridges the gap between citizen science and blockbuster games](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
+Learn more about [Citizen Science and the Flint Water Crisis](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.154/). An example of citizen science in a video game is the Borderlands Science game: [Borderlands 3 bridges the gap between citizen science and blockbuster games](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
 {: .note}
 
 ## Ethical considerations
