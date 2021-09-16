@@ -20,7 +20,7 @@ Learn more about Citizen Science from this [National Geographic learning resourc
 {: .note}
 
 ## Is the "Citizen Scientist" a new idea?
-No! Before the 1800s scientists were often not professionally trained and data collection belong to interested citizens. Many of the conventions of modern scientific discourse are rooted in these early debates between "armchair philosophers" who took a part time interest in the scientific.
+No! Before the 1800s. scientists were often not professionally trained and data collection belonged to interested citizens. Many of the conventions of modern scientific discourse are rooted in these early debates between "armchair philosophers" who took a part time interest in scientific endeavours and the world around them.
 
 In fact the term "scientist" comes from the Cambridge University historian and philosopher of science [William Whewell](https://plato.stanford.edu/entries/whewell/) who coined it in response a challenge from the English poet Samuel Taylor Coleridge and out of a need for a term to describe the rising scientific professions. Scientist was inspired by the use of "artist" for professionals who create art.
 
