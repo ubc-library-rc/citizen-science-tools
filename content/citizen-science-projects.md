@@ -18,7 +18,13 @@ The projects below showcase the diversity of Citizen Science projects.
 
 "A citizen science project on human biological and chronological age."
 
+[B.C. Cetacean Sightings Network](https://wildwhales.org/)
+* Upcoming local events https://wildwhales.org/upcoming-events/
+
+Report sightings of whales, dolphins, porpoises, and sea turtles in the waters of B.C. to help large ships minimise the risk of striking or disturbing them.
+
 [Community Bat Programs of BC](https://www.bcbats.ca/index.php/get-involved/participate-in-the-bc-bat-count)
+
 The BC Annual Bat Count is a citizen science program to annually monitor bat populations in roost sites.
 
 [eBird Canada](https://ebird.org/canada/home)
@@ -29,6 +35,10 @@ Birdwatching with purpose. "Your sightings contribute to hundreds of conservatio
 
 Help the eButterfly understand when and where butterflies occur.
 
+[Embryo Cam](https://www.zooniverse.org/projects/embryophenomics/embryo-cam)
+
+This project is training an Artificial Intelligence (AI) to autonomously spot features in developing the developing embryos of aquatic creatures to better understand the impact of climate change on these creatures. Help the research team identify features of interest in scientific images to train the AI.
+
 [FISHstory](https://www.zooniverse.org/projects/safmcadmin/fishstory)
 
 "Filling Fisheries Data Gaps with Historical Dock Photos."
@@ -37,9 +47,26 @@ Help the eButterfly understand when and where butterflies occur.
 
 "Count cells of modern & fossil leaves. Help us track climate change over millions of years"
 
+[Frogwatch](https://www.naturewatch.ca/frogwatch/british-columbia/)
+
+Have fun monitoring the natural world around you while contributing data about frogs and their habitats to researchers.
+
 [Gravity Spy](https://www.zooniverse.org/projects/zooniverse/gravity-spy)
 
 "Help scientists at LIGO() search for gravitational waves, the elusive ripples of spacetime"
+
+[Jungle Weather](https://www.zooniverse.org/projects/khufkens/jungle-weather/about/research)
+
+Help scientists better understand the impact of climate change on forest ecosystems by transcribing historical climate data.
+
+[Merlin](https://merlin.allaboutbirds.org/)
+
+"Idenitfy the birds you see or hear with Merlin Bird ID"
+
+[Old Weather](https://daily.zooniverse.org/2016/10/13/old-weather-is-another-year-older/)
+
+Transcribe millions of pages of old ship's logbooks to help build large datasets of climate information for use in research.
+* One of the oldest continuous projects on Zooniverse (started in 2010!)
 
 [Penguin Watch](https://www.zooniverse.org/projects/penguintom79/penguin-watch)
 
@@ -57,7 +84,13 @@ One of the earliest Citizen Science projects to leverage wide availability of pe
 
 "...a citizen science project that aims to raise the public profile of science and radio astronomy while simultaneously creating a research grade data processing resource for scientists."
 
+[Snowflake ID](https://www.zooniverse.org/projects/fitch09/snowflake-id)
+
+Classify images of snowflakes to help scientists better track the impacts of climate change.
+* Currently not accepting contributions because they ran out of data.
+
 [UBC Seed Lending Library](https://guides.library.ubc.ca/seedlendinglibrary)
+
 The UBC Seed Lending Library allows anyone to "borrow" seeds free of charge, and provides opportunities to learn about gardening, seed saving, and agricultural research and teaching at UBC.
 
 ## Finding more projects
@@ -70,6 +103,7 @@ We have only scratched the surface of Citizen Science and there are many more pr
 
 * Canada:
   * [Government of Canada list of Citizen Science projects](https://www.ic.gc.ca/eic/site/063.nsf/eng/h_97169.html)
+  * [NatureWatch](https://www.naturewatch.ca/about/)
 
 * US:
   * [CitizenScience.gov](https://www.citizenscience.gov/)
