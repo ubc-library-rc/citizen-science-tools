@@ -31,6 +31,10 @@ The BC Annual Bat Count is a citizen science program to annually monitor bat pop
 
 Birdwatching with purpose. "Your sightings contribute to hundreds of conservation decisions and peer-reviewed papers, thousands of student projects, and help inform bird research worldwide."
 
+[Bird-window collision : a problem at UBC buildings](https://open.library.ubc.ca/soa/cIRcle/collections/undergraduateresearch/52966/items/1.0074569)
+
+A UBC-based project to monitor birds impacting windows on campus. [Read more about it!](https://sustain.ubc.ca/stories/bird-friendly-windows-reduce-collision-deaths-ubc)
+
 [eButterfly](http://www.e-butterfly.org/)
 
 Help the eButterfly understand when and where butterflies occur.
@@ -63,7 +67,7 @@ Help scientists better understand the impact of climate change on forest ecosyst
 
 "Idenitfy the birds you see or hear with Merlin Bird ID"
 
-[Old Weather](https://daily.zooniverse.org/2016/10/13/old-weather-is-another-year-older/)
+[Old Weather](https://www.oldweather.org/)
 
 Transcribe millions of pages of old ship's logbooks to help build large datasets of climate information for use in research.
 * One of the oldest continuous projects on Zooniverse (started in 2010!)
