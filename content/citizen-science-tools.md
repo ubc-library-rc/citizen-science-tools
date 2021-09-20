@@ -35,7 +35,7 @@ Many projects have dedicated apps and platforms that were custom built for their
 
 [Citizen Science Project Builder](https://lab.citizenscience.ch/de/) - Citizen Science Project Builder is a tool for structuring Citizen Science projects from data entry to visualization of results in real time.
 
-[NatureWatch](https://www.naturewatch.ca/about/) - A website that serves as a data collection platform for citizen scientists, launched as a partnership between Environment Canada, Nature Canada (and environmental NGO), and several other organisations. 
+[NatureWatch](https://www.naturewatch.ca/about/) - A website that serves as a data collection platform for citizen scientists, launched as a partnership between Environment Canada, Nature Canada (an environmental NGO), and several other organisations. 
 
 [Wikimedia Foundation projects](https://wikimediafoundation.org/our-work/wikimedia-projects/) - The Wikimedia foundation runs a number of crowdsourcing tools and makes available tools for running your own projects off of similar infrastructure. A noteable tool is [Wikibase](https://wikiba.se/)
 * Example Wikibase project: [Gene Wiki](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gene_Wiki)
