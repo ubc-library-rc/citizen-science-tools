@@ -29,13 +29,15 @@ Many projects have dedicated apps and platforms that were custom built for their
 
 [Pybossa](https://pybossa.com/) - Pybossa is a crowdsourcing framework for processing and analyzing data which means that it is a set of tools that help researchers accomplish organising tasks through crowdsourcing.
 
-[Wildlife Sightings](http://www.wildlifesightings.net/) - Taken from their website: "Our goal is to organize & publish nature sightings for enjoyment, education and contribute to citizen science. Nature lovers (novice & expert), non-profit groups and educators can be a part of our citizen science community project and even run their own local project with our easy to use tools. Use our free service to publish, organize & manage your sighting data so you can focus on what you enjoy doing, leave the technical work to us!"
-
 [CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/Home.php?WebSiteID=7) - CitSci is a tool for data collection, visualization, and review which shows results in real time.
 
+<<<<<<< HEAD
+[NatureWatch](https://www.naturewatch.ca/about/) - A website that serves as a data collection platform for citizen scientists, launched as a partnership between Environment Canada, Nature Canada (and environmental NGO), and several other organisations.
+=======
 [Citizen Science Project Builder](https://lab.citizenscience.ch/de/) - Citizen Science Project Builder is a tool for structuring Citizen Science projects from data entry to visualization of results in real time.
 
 [NatureWatch](https://www.naturewatch.ca/about/) - A website that serves as a data collection platform for citizen scientists, launched as a partnership between Environment Canada, Nature Canada (an environmental NGO), and several other organisations. 
+>>>>>>> 606bcc259a070fad28055ddd201354dae034dae7
 
 [Wikimedia Foundation projects](https://wikimediafoundation.org/our-work/wikimedia-projects/) - The Wikimedia foundation runs a number of crowdsourcing tools and makes available tools for running your own projects off of similar infrastructure. A noteable tool is [Wikibase](https://wikiba.se/)
 * Example Wikibase project: [Gene Wiki](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gene_Wiki)
