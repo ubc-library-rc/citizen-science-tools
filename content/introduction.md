@@ -54,3 +54,7 @@ Many of these concerns are currently being discussed in the Citizen Science comm
 * the development of clear guidelines for citizen scientists
 * structured education and training for participants in projects
 * and clear descriptions of intent for the sharing and use of data collected
+
+
+The Citizen Science Association(CSA) has an [Ethics Working Group](https://citizenscience.org/get-involved/working-groups/ethics-working-group/) that acts as a task group to explore such issues as Human Subject Ethics, Biodeiversity & Environmental Ethics, Social Justice Ethics, etc. It is also a resource portal that links to numerous forms and guidelines, including the European Citizen Science Association(ECSA)'s [Ten Principles of Citizen Science](https://osf.io/xpr2n/wiki/home/). 
+{: .note}
