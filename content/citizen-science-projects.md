@@ -19,7 +19,7 @@ The projects below showcase the diversity of Citizen Science projects.
 "A citizen science project on human biological and chronological age."
 
 [B.C. Cetacean Sightings Network](https://wildwhales.org/)
-* Upcoming local events https://wildwhales.org/upcoming-events/
+* Upcoming local events [https://wildwhales.org/upcoming-events/](https://wildwhales.org/upcoming-events/)
 
 Report sightings of whales, dolphins, porpoises, and sea turtles in the waters of B.C. to help large ships minimise the risk of striking or disturbing them.
 
