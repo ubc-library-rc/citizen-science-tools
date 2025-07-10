@@ -3,8 +3,8 @@ layout: default
 title: Outline
 nav_order: 1
 ---
-# Getting started with Citizen Science: a survey of tools and projects.
-
+# Getting Started with Citizen Science
+## A survey of tools and projects
 This workshop will introduce Citizen Science as a concept, common digital and analogue tools for engaging with it, and projects to be aware of and get involved with.
 
 It is part of Science Literacy Week 2021 programming and is co-presented by the [UBC Vancouver Library](https://library.ubc.ca), the [UBC Okanagan Library](https://library.ok.ubc.ca), and the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons</a>.
