@@ -1,4 +1,4 @@
-# Getting started with Citizen Science
+# Getting Started with Citizen Science
 ### UBC Library Research Commons
 :heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
 Link to workshop: https://ubc-library-rc.github.io/citizen-science-tools/
